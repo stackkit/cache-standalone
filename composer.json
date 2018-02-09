@@ -1,0 +1,21 @@
+{
+    "name": "stackkit/cache-standalone",
+    "authors": [
+        {
+            "name": "larsvankleef",
+            "email": "larsvankleef@outlook.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "stackkit\\cache-standalone\\": "src/"
+        }
+    },
+    "require": {
+        "illuminate/cache": "^5.5",
+        "illuminate/container": "^5.5",
+        "illuminate/filesystem": "^5.5",
+        "illuminate/redis": "^5.5",
+        "predis/predis": "^1.1"
+    }
+}

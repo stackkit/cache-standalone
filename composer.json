@@ -1,5 +1,6 @@
 {
     "name": "stackkit/cache-standalone",
+    "license": "MIT",
     "authors": [
         {
             "name": "larsvankleef",

@@ -49,4 +49,14 @@ class Cache
     {
         return $this->cache->remember($name, $time, $function);
     }
+
+    public function forget($name) 
+    {
+        return $this->cache->forget($name);
+    }
+
+    public function flush()
+    {
+        return $this->cache->flush();
+    }
 }

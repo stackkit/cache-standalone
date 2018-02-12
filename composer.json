@@ -3,13 +3,13 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "larsvankleef",
-            "email": "larsvankleef@outlook.com"
+            "name": "Lars van Kleef",
+            "email": "lars@buildcode.nl"
         }
     ],
     "autoload": {
         "psr-4": {
-            "stackkit\\cache-standalone\\": "src/"
+            "Stackkit\\CacheStandalone\\": "src/"
         }
     },
     "require": {

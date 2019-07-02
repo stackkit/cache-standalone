@@ -13,10 +13,10 @@
         }
     },
     "require": {
-        "illuminate/cache": "^5.5",
-        "illuminate/container": "^5.5",
-        "illuminate/filesystem": "^5.5",
-        "illuminate/redis": "^5.5",
+        "illuminate/cache": "^5.8",
+        "illuminate/container": "^5.8",
+        "illuminate/filesystem": "^5.8",
+        "illuminate/redis": "^5.8",
         "predis/predis": "^1.1"
     }
 }
